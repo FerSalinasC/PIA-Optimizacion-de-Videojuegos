@@ -22,6 +22,9 @@ Cambios agregados
 Problemas detectados N/A
 Soluciones / optimizaciones aplicadas
 - Se reviso la optimización de las texturas
+Pendientes
+- Comenzar con la creación del modelo propio
+- Implementar la multitextura
 
 Semana: 5
 Cambios agregados
@@ -32,6 +35,16 @@ Soluciones / optimizaciones aplicadas
 - Se definieron los LODs de los modelos
 Pendientes 
 - Terminar los modelos propios
-Pendientes 
 
-- Comenzar con la creación del modelo propio
+Semana: 6
+Cambios agregados
+- Comenzamos a probar la implementacion de la IA de enemigos
+- Mejoras en el entorno del juego
+- Implementacion de los modelos propios
+Problemas detectados
+- El peso del archivo esta quedando demasiado grande para subir a github
+Soluciones / optimizaciones aplicadas
+- Ciclo de día y noche aplicado
+Pendientes 
+- Realizar la documentación para el primer checkpoint
+
