@@ -48,3 +48,11 @@ Soluciones / optimizaciones aplicadas
 Pendientes 
 - Realizar la documentación para el primer checkpoint
 
+Semana: 7 
+Cambios agregados
+Comenzamos a cargar las particulas
+Implementación de menu de pausa
+Problemas detectados
+Problemas a la hora de implementar los destruibles
+Pendientes 
+Falta implementar la UI
