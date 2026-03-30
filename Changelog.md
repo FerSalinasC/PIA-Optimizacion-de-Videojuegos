@@ -56,3 +56,20 @@ Problemas detectados
 - Problemas a la hora de implementar los destruibles
 Pendientes 
 - Falta implementar la UI
+
+- Semana: 8 
+Cambios agregados
+-Implementación de los botones de menu
+-Implementación de UI
+Problemas detectados
+- Problemas a la hora de implementar los destruibles
+Pendientes 
+- Implementar los destruibles correctamente
+
+- Semana: 9 
+Cambios agregados
+- Implementamos animaciones
+Problemas detectados
+- Seguimos con problemas con los destruibles
+Pendientes 
+- Arreglar los problemas que tienen los destruibles
