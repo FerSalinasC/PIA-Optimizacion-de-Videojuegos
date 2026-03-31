@@ -73,3 +73,11 @@ Problemas detectados
 - Seguimos con problemas con los destruibles
 Pendientes 
 - Arreglar los problemas que tienen los destruibles
+
+- Semana: 10
+Cambios agregados
+- Animaciones y destruibles finalmente funcionales
+- Particulas funcionando mejor
+Pendientes
+- Pulir lo hecho hasta ahora
+- Organizar aún más las carpetas y archivos
