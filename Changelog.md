@@ -73,3 +73,12 @@ Problemas detectados
 - Seguimos con problemas con los destruibles
 Pendientes 
 - Arreglar los problemas que tienen los destruibles
+
+- Semana: 10
+Cambios agregados
+- Trabajamos en la implementación de torretas
+- Implementamos model kit de nuestro escenario principal
+Problemas detectados
+- Mejorar la detección de las torretas
+Pendientes 
+- Implementar UI
