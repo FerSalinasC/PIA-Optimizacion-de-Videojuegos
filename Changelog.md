@@ -57,7 +57,7 @@ Problemas detectados
 Pendientes 
 - Falta implementar la UI
 
-- Semana: 8 
+Semana: 8 
 Cambios agregados
 -Implementación de los botones de menu
 -Implementación de UI
@@ -66,7 +66,7 @@ Problemas detectados
 Pendientes 
 - Implementar los destruibles correctamente
 
-- Semana: 9 
+Semana: 9 
 Cambios agregados
 - Implementamos animaciones
 Problemas detectados
@@ -74,7 +74,7 @@ Problemas detectados
 Pendientes 
 - Arreglar los problemas que tienen los destruibles
 
-- Semana: 10
+Semana: 10
 Cambios agregados
 - Trabajamos en la implementación de torretas
 - Implementamos model kit de nuestro escenario principal
@@ -82,3 +82,21 @@ Problemas detectados
 - Mejorar la detección de las torretas
 Pendientes 
 - Implementar UI
+
+Semana: 10
+Cambios agregados
+- Implementamos el sistema de oleadas de enemigos
+- Creamos la ia de los enemigos
+Problemas detectados
+- Problemas de la ia con la detección de objetos
+Pendientes 
+- Arreglar los problemas con la ia
+
+Semana: 11
+Cambios agregados
+- Arreglamos los problemas de la ia de enemigos
+- Añadimos un segundo tipo de enemigos para mayor dificiltad
+Problemas detectados
+- 
+Pendientes 
+- 
