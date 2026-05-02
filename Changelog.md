@@ -97,6 +97,6 @@ Cambios agregados
 - Arreglamos los problemas de la ia de enemigos
 - Añadimos un segundo tipo de enemigos para mayor dificiltad
 Problemas detectados
-- 
+- Problemas con los spawn rates de la segunda oleada
 Pendientes 
-- 
+- Arreglar los problemas en las oleadas
