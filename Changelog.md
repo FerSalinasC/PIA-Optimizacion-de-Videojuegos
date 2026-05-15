@@ -100,3 +100,22 @@ Problemas detectados
 - Problemas con los spawn rates de la segunda oleada
 Pendientes 
 - Arreglar los problemas en las oleadas
+
+Semana: 12
+Cambios agregados
+- Recolección de monedas
+- Sistema de guardado
+- Sistema de compensación al perder
+Problemas detectados
+- Los enemigos siguen atacando al cerrar la puerta
+Pendientes 
+- Ajustar la IA de los enemigos
+
+Semana: 13
+Cambios agregados
+- Tecla para agregar torretas
+- 
+Problemas detectados
+- 
+Pendientes 
+- 
