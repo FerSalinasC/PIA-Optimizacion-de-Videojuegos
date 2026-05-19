@@ -114,8 +114,6 @@ Pendientes
 Semana: 13
 Cambios agregados
 - Tecla para agregar torretas
-- 
-Problemas detectados
-- 
-Pendientes 
-- 
+- Finalización de la mécanica del juego
+Pendientes
+- Mejorar el entorno 
